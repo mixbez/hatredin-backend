@@ -1,0 +1,41 @@
+Privacy Policy for HatredIn
+Last updated: July 10, 2025
+
+HatredIn is a browser extension designed to let users express disapproval of AI-generated or low-effort content on LinkedIn by anonymously incrementing a counter below each post.
+
+What Data We Collect
+HatredIn does not collect or store any personal data.
+
+The only information sent to our server is:
+
+A hashed LinkedIn post ID (e.g., urn:li:activity:...)
+
+Whether the user has reported or unreported a specific post
+
+No LinkedIn account information, names, profile URLs, email addresses, or cookies are collected or transmitted.
+
+How We Use the Data
+We use the post ID to:
+
+Increment or decrement the visible reaction count
+
+Provide an anonymous tally of how many users have marked a post
+
+This data is not associated with any user or device.
+
+Third-Party Sharing
+We do not share any data with third parties. The data is only stored on our backend server hosted by Render.com for the purpose of count tracking.
+
+Analytics
+We do not use any analytics, cookies, fingerprinting, or tracking mechanisms.
+
+Your Control
+You can:
+
+Remove the extension at any time from your browser
+
+Clear any localStorage keys stored by the extension via your browser’s DevTools
+
+Contact
+If you have any questions about this Privacy Policy, you can contact the developer at:
+bezverhiymix@gmail.com
